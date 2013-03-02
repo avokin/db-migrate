@@ -16,7 +16,3 @@ def getDbVersion(conn):
 def execute(conn, query):
     conn.cursor().execute(query)
     
-    
-    
-    
-
